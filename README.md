@@ -1,0 +1,2 @@
+# event-registration-using-google-api
+This project allows users to authenticate with Google, create events, and manage their Google Calendar through a web interface. It also automatically send confirmation emails to the event host without explicitly inputting their email address. The integration involves using Google OAuth 2.0 for authentication, Google Calendar API to create and manage calendar events, Gmail API to receive confirmation mail and a Node.js backend with Express.js to handle server-side logic.
